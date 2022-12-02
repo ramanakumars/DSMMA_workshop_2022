@@ -19,7 +19,7 @@ python3 -m pip install -r requirements.txt
 The data is currently hosted in two parts:
 
  - The classification data: This is a JSON file that contains about 2 millions classifications across
- 120,000 subjects. You can download it from [this link](https://drive.google.com/file/d/17PimYOEDBRmfHFVZ7z7L2RS-vGg9wnES/view?usp=sharing)
+ 120,000 subjects. You can download it from [this link](https://drive.google.com/file/d/16_dGBfgW5nhUDbhv37emRYQMmLFLBu2Y/view?usp=sharing)
 
  - The subject images: This is a tarball of the 120,000 images (sized at 128x128). You can download these from
  [this link](https://drive.google.com/file/d/1He8RX-aajAheWQIqBK1M7ovt_vbCyue9/view?usp=sharing). The filenames
